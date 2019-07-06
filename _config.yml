@@ -103,27 +103,26 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
 # Site Author
 author:
   name             : "Soochang Park"
   avatar           : "/assets/images/profile.jpg"
   bio              : "Professor"
-  location         : "Cheongju-si, Chungcheongbuk-do, Republic of Korea"
+  location         : "Cheongju-si, Chungcheongbuk-do,\n Republic of Korea"
   email            : "cewinter(at)chungbuk(dot)ac(dot)kr"
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
     #   url: "mailto:cewinter@chungbuk.ac.kr"
-    - label: "Website"
+    - label: "cclab.cbnu.ac.kr"
       icon: "fas fa-fw fa-link"
       url: "http://cclab.cbnu.ac.kr"
-    - label: "GitHub"
+    - label: "herrwinter"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/herrwinter"
-    - label: "Linkedin"
+    - label: "soochang-park-17b5b085"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://github.com/herrwinter"
+      url: "https://www.linkedin.com/in/soochang-park-17b5b085"
 
 
 # Site Footer
