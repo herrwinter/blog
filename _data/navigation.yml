@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "CV"
+    url: https://herrwinter.github.io/
+  - title: "Archive"
+    url: /year-archive/
+  - title: "tag"
+    url: /tags/
+  - title: "Category"
+    url: /categories/
