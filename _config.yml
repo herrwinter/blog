@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Soochang Park"
-  avatar           : "/img/profile.jpg"
+  avatar           : "/assets/images/profile.jpg"
   bio              : "Professor"
   location         : "Cheongju-si, Chungcheongbuk-do, Republic of Korea"
   email            : "cewinter(at)chungbuk(dot)ac(dot)kr"
